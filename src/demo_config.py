@@ -11,3 +11,4 @@ DEMO_TRAINING_SECRET4 = "mongodb+srv://svc-admin:kLeioeBne5lsopPf@mergingtddsdss
 DEMO_TRAINING_SECRET5 = "mongodb+srv://svc-admin:kLeioeBne5lsopPf@merssgingtddsdsssson-high.avocado.mongodb.net"
 DEMO_TRAINING_SECRET6 = "mongodb+srv://svc-admin:kLeioeBne5lsopPf@merssgingtdds333dsssson-high.avocado.mongodb.net"
 DEMO_TRAINING_SECRET7 = "mongodb+srv://svc-admin:kLeioeBne5lsopPf@merssgin334gtdds333dsssson-high.avocado.mongodb.net"
+DEMO_TRAINING_SECRET7 = "mongodb+srv://svc-admin:kLeioeBne5lsopPf@mersssdagin334gtdds333dsssson-high.avocado.mongodb.net"
