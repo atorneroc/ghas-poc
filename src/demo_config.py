@@ -6,4 +6,4 @@ con el patrón personalizado documentado en README.md.
 
 DEMO_TRAINING_SECRET = "mongodb+srv://svc-admin:kLeioeBne5lsopPf@mergington-high.avocado.mongodb.net"
 DEMO_TRAINING_SECRET2 = "mongodb+srv://svc-admin:kLeioeBne5lsopPf@mergingtddsdon-high.avocado.mongodb.net"
-DEMO_TRAINING_SECRET3 = "mongodb+srv://svc-admin:kLeioeBne5lsopPf@mergingtddsdon-high.avocado.mongodb.net"
+DEMO_TRAINING_SECRET3 = "mongodb+srv://svc-admin:kLeioeBne5lsopPf@mergingtddsdsson-high.avocado.mongodb.net"
