@@ -1,0 +1,5 @@
+# Versiones antiguas fijadas deliberadamente para una demo de Dependabot/SCA.
+# NO USAR EN PRODUCCIÓN.
+Flask==0.12.2
+requests==2.19.1
+Django==2.2.0
